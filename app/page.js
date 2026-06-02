@@ -16,7 +16,7 @@ export default function Home() {
 
         <div className="absolute top-0 left-[15%] h-full flex items-center z-10">
           <div>
-            <h1 className="text-[6rem] leading-tight text-black drop-shadow-lg">
+            <h1 className="text-[5rem] leading-tight text-black drop-shadow-lg">
               Hareketin
               <br />
               iyileştirici
